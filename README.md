@@ -1,5 +1,7 @@
 <h3 align="center">MrBusard &bull; GITHub Profile</h3>
-![](https://zupimages.net/up/22/25/kngw.png)
+<p align="center">Intégrateur Développeur en Applications Web</p>
+
+
 <!--
  ✨ 
 - 🔭 I’m currently working on ...
