@@ -1,4 +1,4 @@
-<h3 align="center">MrBusard &bull; GITHub Profile</h3>
+<h3 align="center">Aymeric Dalibon &bull; GITHub Profile</h3>
 <p align="center">Intégrateur Développeur en Applications Web</p>
 
 ---
